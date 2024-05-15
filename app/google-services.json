@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249892060705",
+    "project_id": "app2048-652ab",
+    "storage_bucket": "app2048-652ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249892060705:android:6499823afa7bc7142b6d60",
+        "android_client_info": {
+          "package_name": "com.example.a2048_activity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgl0QOuIwVVfkKB9DHr-ygp2O8AfsX7Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
